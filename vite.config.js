@@ -5,7 +5,6 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/E-commerce-product-page/", // Adjust this to match your GitHub repository name
   plugins: [vue()],
   resolve: {
     alias: {
