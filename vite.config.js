@@ -5,7 +5,7 @@ import vue from "@vitejs/plugin-vue";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/Ecom-product-page/",
+  base: "/Ecom-prod-page/",
   plugins: [vue()],
   resolve: {
     alias: {

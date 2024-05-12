@@ -18,7 +18,7 @@ const addtocartlist = () => {
   if (counter.inject.length === 0) {
     if (counter.totalproducts > 0) {
       counter.inject.push({
-        image: "src/assets/image-product-1.jpg",
+        image: "image-product-1.jpg",
         totalpr: counter.totalproducts,
         title: "Fall Limited Edition Snakers",
         price: counter.price,
