@@ -16,7 +16,7 @@ watchEffect(() => {
 
 const imgs = ref([
   {
-    imgsrc: "../assets/image-product-1.jpg",
+    imgsrc: "src/assets/image-product-1.jpg",
     imgthumb: "../assets/image-product-1-thumbnail.jpg",
     state: "default",
   },
