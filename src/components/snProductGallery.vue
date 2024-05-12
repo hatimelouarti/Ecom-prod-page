@@ -16,23 +16,23 @@ watchEffect(() => {
 
 const imgs = ref([
   {
-    imgsrc: "../assets/image-product-1.jpg",
-    imgthumb: "../assets/image-product-1-thumbnail.jpg",
+    imgsrc: "image-product-1.jpg",
+    imgthumb: "image-product-1-thumbnail.jpg",
     state: "default",
   },
   {
-    imgsrc: "../assets/image-product-2.jpg",
-    imgthumb: "../assets/image-product-2-thumbnail.jpg",
+    imgsrc: "image-product-2.jpg",
+    imgthumb: "image-product-2-thumbnail.jpg",
     state: "",
   },
   {
-    imgsrc: "../assets/image-product-3.jpg",
-    imgthumb: "../assets/image-product-3-thumbnail.jpg",
+    imgsrc: "image-product-3.jpg",
+    imgthumb: "image-product-3-thumbnail.jpg",
     state: "",
   },
   {
-    imgsrc: "../assets/image-product-4.jpg",
-    imgthumb: "../assets/image-product-4-thumbnail.jpg",
+    imgsrc: "image-product-4.jpg",
+    imgthumb: "image-product-4-thumbnail.jpg",
     state: "",
   },
 ]);
